@@ -1,6 +1,8 @@
 # Montevideo
 Apptime Technical Challenge.
 
+![montevideo](/wallpaper.jpeg)
+
 ### Introduction
 This repository contains a web application that provides the following capabilities:
 
