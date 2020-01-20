@@ -24,9 +24,9 @@ This repository does *not* contain the following features:
 
 ### Table of Contents
 
+- [Challenge Scope](./SCOPE.md)
 - [Adding APKs to the System](./apks/README.md)
 - [Android Setup](./android/README.md)
-- [How to test the app](./tests/README.md)
 - [Installation & Setup](./app/README.md)
-- [Challenge Scope](./SCOPE.md)
+- [How to test the app](./tests/README.md)
 - [Improvements](./IMPROVEMENTS.md)
