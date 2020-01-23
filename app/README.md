@@ -14,7 +14,7 @@ sudo yum install python3 python3-pip python3-virtualenv
 ```
 ##### Download the app into your local host.
 ```bash
-git clone ssh://git@github.com/MartinCastroAlvarez/apptim
+git clone ssh://git@github.com/MartinCastroAlvarez/montevideo
 ```
 ##### Install the Python dependencies.
 ```bash
